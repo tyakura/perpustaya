@@ -45,3 +45,4 @@ Vite meneruskan permintaan `/api` ke `http://127.0.0.1:8000`. Seeder menambahkan
 
 Data buku memakai kolom `title`, `author`, dan `year`. Tahun boleh dikosongkan. Formulir menggunakan pemilih tanggal; karena katalog hanya menyimpan tahun terbit, hari dan bulan dari tanggal pilihan tidak dicatat.
 # perpustaya
+# perpustaya
